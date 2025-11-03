@@ -45,6 +45,6 @@ module "vpc" {
   }
  
   vpc_tags = {
-    Name = "vpc-dev"
+    Name = "vpc-sreeja"
   }
 }
